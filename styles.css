@@ -3,6 +3,12 @@ body {
   background-color: #011f3f;
 }
 
+#start {
+  padding: 2rem;
+  border: 2px solid lightblue;
+  border-radius: 10px;
+}
+
 .instructions {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
